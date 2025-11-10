@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "871457252401",
+    "project_id": "multirolemarketplace",
+    "storage_bucket": "multirolemarketplace.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871457252401:android:f8aecac9116add5667e110",
+        "android_client_info": {
+          "package_name": "com.hellourgent.userapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgjP63WVe--eZy3grDpU-r0joFhZz4yfw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
